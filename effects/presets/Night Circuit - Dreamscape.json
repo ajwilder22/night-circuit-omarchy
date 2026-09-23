@@ -1,0 +1,22 @@
+{
+  "output": {
+    "blocklist": [],
+    "plugins_order": [
+      "reverb#0"
+    ],
+    "reverb#0": {
+      "bypass": false,
+      "input-gain": 0.0,
+      "output-gain": -1.0,
+      "room-size": "Tunnel-like",
+      "decay-time": 4.2,
+      "hf-damp": 5000.0,
+      "diffusion": 0.8,
+      "amount": -10.0,
+      "dry": 0.0,
+      "predelay": 60.0,
+      "bass-cut": 250.0,
+      "treble-cut": 6200.0
+    }
+  }
+}
