@@ -1,0 +1,21 @@
+{
+  "scale": 0.68,
+  "side": "left",
+  "edge": 12,
+  "top": 34,
+  "gap": 14,
+  "cornerRadius": 18,
+  "opacity": 0.88,
+  "borderOpacity": 0.42,
+  "background": "#142238",
+  "border": "#334A5C",
+  "text": "#EAF4F3",
+  "muted": "#8EA4B3",
+  "accent": "#50D8C5",
+  "secondary": "#50D8C5",
+  "tertiary": "#A58BFF",
+  "track": "#234C57",
+  "clock12": true,
+  "followThemeColors": true,
+  "followThemeShape": true
+}
