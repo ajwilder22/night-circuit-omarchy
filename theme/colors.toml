@@ -1,0 +1,37 @@
+mode = "dark"
+
+# Night Circuit: midnight architecture, teal light, violet depth, amber warmth.
+accent = "#50D8C5"
+selection = "#234C57"
+muted = "#334A5C"
+
+background = "#0B1120"
+dark_background = "#080E19"
+darker_background = "#050913"
+lighter_background = "#142238"
+
+foreground = "#EAF4F3"
+dark_foreground = "#8EA4B3"
+light_foreground = "#B8CBD3"
+bright_foreground = "#FFFFFF"
+
+hyprland_active_border = "rgba(50d8c5ee) rgba(a58bffee) 45deg"
+hyprland_inactive_border = "rgba(334a5cbb)"
+active_border_color = "#50D8C5"
+active_tab_background = "#234C57"
+
+red = "#E97588"
+yellow = "#F4BA75"
+orange = "#ECA77C"
+green = "#73D6AC"
+cyan = "#50D8C5"
+blue = "#76B9E8"
+magenta = "#A58BFF"
+brown = "#AF8C7A"
+
+bright_red = "#F698A7"
+bright_yellow = "#FFD49A"
+bright_green = "#99EAC7"
+bright_cyan = "#82EDDF"
+bright_blue = "#A1D3F5"
+bright_magenta = "#C7B7FF"
